@@ -12,7 +12,9 @@ The goal is build a small React application where a user can chat with an AI thr
 
 * When a user sends a message, the application should call the OpenAI API, which will respond as if it were a chatbot. The responses should be displayed in the conversation view.
 
-* The conversation view should clearly differentiate between messages from the user and responses from the API, perhaps by differentiating the color or side of the screen for each.
+* The conversation view should clearly differentiate between messages from the user and responses from the chatbot, perhaps by differentiating the color or side of the screen for each.
+
+* Implement a backend API to sit between the frontend and the calls to OpenAI.
 
 Feel free to add other relevant functionalities if you want and have time.
 
