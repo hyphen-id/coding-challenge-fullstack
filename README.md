@@ -21,18 +21,20 @@ Feel free to add other relevant functionalities if you want and have time.
 ## Technical Requirements
 * You must use React for the user interface and TypeScript. You are free to use any other libraries you are comfortable with.
 
-* The application must call the OpenAI API, you can use the API token: `XXX`
+* The application must call the OpenAI API, with the API key provided on email.
 
 * You should handle errors gracefully and inform the user when something goes wrong.
 
 * Your code should be clean, well-organized, and easy to understand.
 
+* Implement tests that you see fit.
+
 * We're not expecting a masterpiece of design, but the app should look acceptable to a non-technical user. There should be some attempt at styling, feel free to use whatever framework/tools you’re familiar with.
 
 ## Practical
 
-* Please don't spend more than 60-90 minutes on this exercise. This is meant to be a starting point for our technical discussion and does not need to be a fully polished, production-ready application. You can note the things you would have done if you had more time and we can discuss it during the interview if you like.
+* Please don't spend more than 90 minutes on this exercise. This is meant to be a starting point for our technical discussion and does not need to be a fully polished, production-ready application. You can note the things you would have done if you had more time and we can discuss it during the interview if you like.
 
-* Share with us your git repo link, at the latest 24 hours before your interview (Github usernames: @simonwh @pax-k)
+* Share with us your git repo link, at the latest 24 hours before your interview (Github usernames: @simonwh @pax-k @Volland)
 
 Have fun!
